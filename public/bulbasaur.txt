@@ -1,0 +1,2 @@
+Bulbasaur is a Grass/Poison-type Pokemon. It carries a seed on its back that grows into a plant as it evolves.
+                <img src="./images/Bulbasaur.jpg" alt="Bulbasaur" style="width: 100px;">

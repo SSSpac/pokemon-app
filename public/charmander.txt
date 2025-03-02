@@ -1,0 +1,2 @@
+Charmander is a Fire-type Pokemon. Its flame tail indicates its health and emotions.
+                <img src="./images/Charmander.jpeg" alt="Charmander" style="width: 100px;">

@@ -1,0 +1,2 @@
+Pikachu is an Electric-type Pokemon known for its lightning bolt-shaped tail and its ability to generate electricity.
+<img src="./images/pikachu.jpeg" alt="Pikachu" style="width: 100px;">
